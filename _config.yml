@@ -4,7 +4,7 @@ subtitle: # Overload 2018by HTML5 UP
 email:  Overload@gmail.com # youremailaddress@gmail.com
 description: La mayor convencion de cultura alternativa de Bolivia #A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/2018Overload" # the subpath of your site, e.g. /blog
-url: url: "https://kennetps.github.io/" # the base hostname & protocol for your site
+url: "https://kennetps.github.io/" # the base hostname & protocol for your site
 author:
 street_address: Recinto Ferial Alalay # 1234 Somewhere Road
 city: Cochabamba #Nashville
