@@ -3,13 +3,13 @@
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
+				<div class="field half first">
 
 				<div class="field">
 					<label for="message">Queremos escuchar tus comentarios. Escríbenos un mensaje y cuéntanos como viviste este Overload 2018</label>
-				</div>
 
-
-				<div class="field half first">								
+				</div>				
+				
 					<label for="name">Nombre</label>
 					<input type="text" name="name" id="name" />
 				</div>

@@ -1,7 +1,7 @@
 ---
-title: Anime
+title: Pabellon Anime
 layout: landing
-description: 'Sus personajes favoritos, cosplays y mas'
+description: 'Sus personajes favoritos, cosplay y más…'
 image: assets/images/anime.png
 nav-menu: true
 ---
@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Ultimas noticias</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Por medio de nuestra red social Twitter te mantendremos al tanto de lo ultimo en el pabellon de anime, no dejes de revisar y estar al tanto de los mejores eventos.</p>
+<a class="twitter-timeline" href="https://twitter.com/WebsPronto?ref_src=twsrc%5Etfw">Tweets by WebsPronto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 	
 	</div>
 </section>
 
@@ -26,33 +27,20 @@ nav-menu: true
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
-			<div class="inner">
+			<!--<div class="inner">-->
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Cronograma</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
+				<!--<p>Revisa el cronograma de este pabellon.</p>-->
+				<iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe>
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
+				</ul>-->
+			<!--</div>-->
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+	
+	
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
@@ -60,12 +48,18 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Patrocinadores</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+
+		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+
+	</div>
 			</div>
 		</div>
 	</section>
