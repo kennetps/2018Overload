@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/L.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<!--<div class="inner">-->
@@ -43,21 +43,22 @@ nav-menu: true
 	
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/onePiece.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Patrocinadores</h3>
 				</header>
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="row 50% uniform">
+		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/Posts.png" alt="" /></span></a></div>
+		
+		<!--<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>-->
 
 	</div>
 			</div>
@@ -65,7 +66,7 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
+<!-- 
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -77,5 +78,5 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
+Three -->
 </div>
