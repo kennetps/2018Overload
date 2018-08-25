@@ -1,14 +1,14 @@
 ---
 layout: home
 title: Home
-landing-title: 'Overload 2018, en tu celu!'
+landing-title: 'Overload 2018, en la palma de tu mano'
 description: null
 image: null
 author: null
 ---
 
 
-<h3>Gracias al trabajo de nuestros auspiciadores llevamos a ustedes este hermoso rincon digital</h3>
+<h3>Gracias al apoyo de nuestros auspiciadores llevamos a ustedes esta experiencia digital. Click en el logotipo para más información</h3>
 
 <div class="box alt">
 		<div class="row 50% uniform">

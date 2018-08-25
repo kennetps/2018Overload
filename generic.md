@@ -1,11 +1,10 @@
 ---
 layout: landing
-title: Pabellon de Videojuegos
-description: Explotando con tus juegos favoritos y los mejores tornes
-image: assets/images/fnite2.jpg
+title: Área Cómics y Cultura
+description: Ilustración digital, artistas nacionales y animación.
+image: assets/images/pcomicsycultura.jpg 
 nav-menu: true
 ---
-
 <!-- Main -->
 <div id="main">
 
@@ -20,62 +19,11 @@ nav-menu: true
 	</div>
 </section>
 
-
-<!-- Dota 2 -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Dota 2</h2>
-		</header>
-				<a href="generic.html" class="image">
-			<img src="assets/images/dota2.jpg" alt="" data-position="center center" />
-		</a>
-		<p>Torneo de Dota 2</p>
- 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inscribirte</a></li>
-				</ul>
-	</div>
-</section>
-
-<!-- League of legends-->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>League of legends</h2>
-		</header>
-				<a href="generic.html" class="image">
-			<img src="assets/images/league.png" alt="" data-position="center center" />
-		</a>
-		<p>Torneo League of legends</p>
- 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inscribirte</a></li>
-				</ul>
-	</div>
-</section>
-
-<!-- Clash of Clans-->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Clash of Clans</h2>
-		</header>
-				<a href="generic.html" class="image">
-			<img src="assets/images/clashroyale.jpg" alt="" data-position="center center" />
-		</a>
-		<p>Torneo Clash of Clans</p>
- 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inscribirte</a></li>
-				</ul>
-	</div>
-</section>
-
-
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/fnite.jpeg" alt="" data-position="center center" />
+			<img src="assets/images/draw.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<!--<div class="inner">-->
@@ -92,9 +40,9 @@ nav-menu: true
 	</section>
 	
 	
-	<section id="three" class="spotlights">
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/sc2.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/wolv.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -131,6 +79,5 @@ nav-menu: true
 </section>
 Three -->
 </div>
-
 
 

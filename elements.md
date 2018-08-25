@@ -1,11 +1,10 @@
 ---
 layout: landing
-title: Pabellon Comics y Cultura
-description: "Los mejores dibujantes y el mejor arte de Overload 2018"
-image: assets/images/comics.jpg
+title: Área K-pop #Pabellon Comics y Cultura
+description: "Música, baile y cultura coreana."
+image: assets/images/pkpop.jpg
 nav-menu: true
 ---
-
 
 <!-- Main -->
 <div id="main">
@@ -25,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/draw.jpg" alt="" data-position="center center" />
+			<img src="assets/images/kpopdudes.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<!--<div class="inner">-->
@@ -44,7 +43,7 @@ nav-menu: true
 	
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/wolv.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/kpopstage.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -81,7 +80,6 @@ nav-menu: true
 </section>
 Three -->
 </div>
-
 
 
 
