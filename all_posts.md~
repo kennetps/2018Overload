@@ -4,7 +4,7 @@ title: Área de videojuegos #Pabellon K-Pop
 landing-title: 'All posts'
 nav-menu: true
 description: "Torneos, videojuegos indie nacionales y artículos para gamers."
-image: assets/images/fnite2.jpg #assets/images/pvideojuegos.jpg
+image: assets/images/pvideojuegos.jpg #assets/images/pvideojuegos.jpg
 author: null
 ---
 
@@ -85,8 +85,10 @@ author: null
 					<h3>Cronograma</h3>
 				</header>
 				<!--<p>Revisa el cronograma de este pabellon.</p>-->
-				<iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe>
-				<!--<ul class="actions">
+				
+				<iframe width="100%" height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJpPvNvtacdbqovh2a-wHnjy1oteWzou1S__JBQN36FaNKNuVrzativAXx3nb83bTvOivkpEJrsdf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+				<!--<iframe width="100%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe>
+				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>-->
 			<!--</div>-->
