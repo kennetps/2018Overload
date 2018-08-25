@@ -76,9 +76,21 @@ author: null
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+	
+	
+	
+	
+		<div class="content">
 		<a href="generic.html" class="image">
 			<img src="assets/images/fnite.jpeg" alt="" data-position="center center" />
 		</a>
+		</div>	
+	
+	
+	
+	
+	
+
 		<div class="content">
 			<!--<div class="inner">-->
 				<header class="major">
@@ -97,24 +109,29 @@ author: null
 	
 	
 	<section id="three" class="spotlights">
+			<div class="content">
 		<a href="generic.html" class="image">
 			<img src="assets/images/sc2.jpg" alt="" data-position="25% 25%" />
 		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Patrocinadores</h3>
 				</header>
 		<div class="row 50% uniform">
-		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/Posts.png" alt="" /></span></a></div>
-		
-		<!--<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/Posts.png" alt="" /></span></a></div>		
+
+		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logoesca.png" alt="" /></span></a></div>		
+		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logosanmartin.png" alt="" /></span></a></div>	
+		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logodisenoya.png" alt="" /></span></a></div>	
+		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logoleviatan.jpg" alt="" /></span></a></div>	
+			
+		<!--<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 
 		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>-->
-
 	</div>
 			</div>
 		</div>
