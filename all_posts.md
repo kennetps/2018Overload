@@ -17,7 +17,7 @@ author: null
 		<header class="major">
 			<h2>Ultimas noticias</h2>
 		</header>
-		<p>Por medio de nuestra red social Twitter te mantendremos al tanto de lo ultimo en el pabellon de anime, no dejes de revisar y estar al tanto de los mejores eventos.</p>
+		<p>Nuestros amigos de ProntoWebs, nos tentran actualizados por medio de su red social Twitter con lo ultimo en cada una de las diferentes areas, no dejes de revisar y estar al tanto de los mejores eventos.</p>
 <a class="twitter-timeline" href="https://twitter.com/WebsPronto?ref_src=twsrc%5Etfw">Tweets by WebsPronto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 	
 	</div>
 </section>
@@ -32,10 +32,10 @@ author: null
 				<a href="generic.html" class="image">
 			<img src="assets/images/dota2.jpg" alt="" data-position="center center" />
 		</a>
-		<p>Torneo de Dota 2</p>
- 				<ul class="actions">
+		<p>Torneo de Dota 2, incribete en el pabellon correspondiente</p>
+ 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Inscribirte</a></li>
-				</ul>
+				</ul>-->
 	</div>
 </section>
 
@@ -48,10 +48,10 @@ author: null
 				<a href="generic.html" class="image">
 			<img src="assets/images/league.png" alt="" data-position="center center" />
 		</a>
-		<p>Torneo League of legends</p>
- 				<ul class="actions">
+		<p>Torneo League of legends, inscribete en el pabellon correspondiente</p>
+ 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Inscribirte</a></li>
-				</ul>
+				</ul>-->
 	</div>
 </section>
 
@@ -64,10 +64,10 @@ author: null
 				<a href="generic.html" class="image">
 			<img src="assets/images/clashroyale.jpg" alt="" data-position="center center" />
 		</a>
-		<p>Torneo Clash of Clans</p>
- 				<ul class="actions">
+		<p>Torneo Clash Royale, inscribete en el pabellon correspondiente</p>
+ 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Inscribirte</a></li>
-				</ul>
+				</ul>-->
 	</div>
 </section>
 
@@ -98,7 +98,7 @@ author: null
 				</header>
 				<!--<p>Revisa el cronograma de este pabellon.</p>-->
 				
-				<iframe width="100%" height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVJpPvNvtacdbqovh2a-wHnjy1oteWzou1S__JBQN36FaNKNuVrzativAXx3nb83bTvOivkpEJrsdf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+				<iframe width="100%" height="800px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQvGt0sv0vnatLfZBR3H5_HPOWAeIUkIJNeqBC-MbVWeNzmnUVcpxKhXqdviOC68mtcImGfdw_d1RSI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 				<!--<iframe width="100%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -120,12 +120,14 @@ author: null
 					<h3>Patrocinadores</h3>
 				</header>
 		<div class="row 50% uniform">
-		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/Posts.png" alt="" /></span></a></div>		
+		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/pwebsnew.png" alt="" /></span></a></div>		
 
-		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logoesca.png" alt="" /></span></a></div>		
-		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logosanmartin.png" alt="" /></span></a></div>	
-		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logodisenoya.png" alt="" /></span></a></div>	
-		<div class="4u"><a href="#"><span class="image fit"><img src="assets/images/logoleviatan.jpg" alt="" /></span></a></div>	
+		<div class="4u"><a href="http://www.cienciayarte.org/"><span class="image fit"><img src="assets/images/logoesca.png" alt="" /></span></a></div>		
+		<div class="4u"><a href="https://www.facebook.com/CentroDeAdopcionesSanMartinDePorres/"><span class="image fit"><img src="assets/images/logosanmartin.png" alt="" /></span></a></div>	
+		<div class="4u"><a href="https://www.facebook.com/DisenhoGraficoYa/"><span class="image fit"><img src="assets/images/logodisenoya.png" alt="" /></span></a></div>	
+		<div class="4u"><a href="https://www.facebook.com/LEVIATANBOLIVIA/"><span class="image fit"><img src="assets/images/logoleviatan.jpg" alt="" /></span></a></div>	
+		<div class="4u"><a href="https://www.facebook.com/PlumaRealStudios/"><span class="image fit"><img src="assets/images/plumareal.png" alt="" /></span></a></div>			
+		
 			
 		<!--<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
 

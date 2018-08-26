@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Ultimas noticias</h2>
 		</header>
-		<p>Por medio de nuestra red social Twitter te mantendremos al tanto de lo ultimo en el pabellon de anime, no dejes de revisar y estar al tanto de los mejores eventos.</p>
+				<p>Nuestros amigos de ProntoWebs, nos tentran actualizados por medio de su red social Twitter con lo ultimo en cada una de las diferentes areas, no dejes de revisar y estar al tanto de los mejores eventos.</p>
 <a class="twitter-timeline" href="https://twitter.com/WebsPronto?ref_src=twsrc%5Etfw">Tweets by WebsPronto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 	
 	</div>
 </section>
@@ -32,7 +32,8 @@ nav-menu: true
 					<h3>Cronograma</h3>
 				</header>
 				<!--<p>Revisa el cronograma de este pabellon.</p>-->
-				<iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe>
+				No fue facilitado
+				<!-- <iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRk72JjOzSuNkcFQP73CR9B8RbYM_J1sS7DJU4ICGJwa9qUVWeFuXMN99vr-REsCfqoosydzsmXtIJH/pubhtml?widget=true&amp;headers=false"></iframe> -->
 				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>-->
@@ -51,14 +52,14 @@ nav-menu: true
 					<h3>Patrocinadores</h3>
 				</header>
 		<div class="row 50% uniform">
-		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/Posts.png" alt="" /></span></a></div>
-		
-		<!--<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><a href="http://prontowebs.com/"><span class="image fit"><img src="assets/images/pwebsnew.png" alt="" /></span></a></div>		
 
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>-->
+		<div class="4u"><a href="http://www.cienciayarte.org/"><span class="image fit"><img src="assets/images/logoesca.png" alt="" /></span></a></div>		
+		<div class="4u"><a href="https://www.facebook.com/CentroDeAdopcionesSanMartinDePorres/"><span class="image fit"><img src="assets/images/logosanmartin.png" alt="" /></span></a></div>	
+		<div class="4u"><a href="https://www.facebook.com/DisenhoGraficoYa/"><span class="image fit"><img src="assets/images/logodisenoya.png" alt="" /></span></a></div>	
+		<div class="4u"><a href="https://www.facebook.com/LEVIATANBOLIVIA/"><span class="image fit"><img src="assets/images/logoleviatan.jpg" alt="" /></span></a></div>	
+		<div class="4u"><a href="https://www.facebook.com/PlumaRealStudios/"><span class="image fit"><img src="assets/images/plumareal.png" alt="" /></span></a></div>			
+		
 
 	</div>
 			</div>

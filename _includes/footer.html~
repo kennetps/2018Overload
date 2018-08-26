@@ -5,7 +5,7 @@
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 
 				<div class="field">
-					<label for="message">Queremos escuchar tus comentarios. Escríbenos un mensaje y cuéntanos como viviste este Overload 2018</label>
+					<label for="message">¿Te gustó el evento? Danos tus quejas y sugerencias para el próximo año.</label>
 				</div>
 
 
@@ -37,9 +37,9 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Teléfono de contacto</h3>
-					<span>{{ site.phone }}</span>
+					<span class="icon alt fa-car"></span>
+					<h3>Como llegar</h3>
+					<span>Movilidades desde el centro de Cochabamba</span>
 				</div>
 			</section>
 			<section>
